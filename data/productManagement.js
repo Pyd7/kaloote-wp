@@ -2,7 +2,7 @@ export const productManagementData = {
     name: 'Product Management',
     industry: 'Tech',
     summary: {
-      salary: ["50K", "100K"],
+      salary: ["60K", "100K"],
       workload: '60',
       travel: 'Low'
     },
